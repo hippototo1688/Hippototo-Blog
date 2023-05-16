@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/welcome/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/QuartoTestRmd/index.html",
+      "/posts/gtsummary + R Markdown/index.html",
+      "/posts/Figure Layout 2/index.html"
+    ]
+  }
+]

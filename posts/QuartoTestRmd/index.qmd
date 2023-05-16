@@ -1,0 +1,37 @@
+---
+title: "QuartoTestRmd"
+author: "Thongchai Thongvigitmaneee"
+date: "2023-05-15"
+categories: [code, analysis]
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+
+#| fasdkjlfsalkj
+#| fsadjlkfsadfkl
+#| Fig-cap:
+#| 
+
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed). #พิมพ์ภาษาไทย สวัสดีครับ
+
+ชื่อธงชัย ธงวิจิตรมณี รายงานความก้าวหน้าครั้งที่ 5
+
+จับตาโค้งสุดท้ายเลือกตั้ง 'กระสุนเหนือกระแส' หัวละ 3,000-5,000 บาท 'คืนหมาหอน' ยิ่งดุ!!
